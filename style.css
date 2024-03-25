@@ -1,0 +1,236 @@
+body
+{
+
+}
+
+b
+{
+    color: white;
+}
+
+.ol
+{
+    background-color: rgb(40, 25, 57);
+    width: auto;
+    height: auto;
+    color: rgba(161, 160, 160, 0.788);
+}
+.attrib
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 60%;
+    margin-top: -20px;
+}
+
+.image1 img 
+{
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
+}
+
+.attrib a
+{
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.logo
+{
+    margin-left: 20px;
+}
+
+.introd b
+{
+    font-size: 25px;
+}
+
+.input1 input
+{
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px;
+    background-color: rgb(50, 243, 243);
+    height: 25px;
+    width: 115px;
+    color: white;
+}
+.container1
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.container2
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.container3
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.overview-text
+{
+    margin-top: 40px;
+    
+}
+
+.overview-text b
+{
+    font-size: 25px;
+}
+.overview-text a
+{
+    color: white;
+}
+.image3 img
+{
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
+}
+
+.container4
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+
+}
+
+
+.profil1
+{
+    background-color: rgb(56, 25, 86);
+    padding: 25px;
+}
+
+.profil2
+{
+    background-color: rgb(56, 25, 86);
+    padding: 25px;
+}
+
+.profil3
+{
+    background-color: rgb(56, 25, 86);
+    padding: 25px;
+}
+
+.container4 img
+{
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+}
+
+.text-title
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(10, 10, 39);
+}
+
+.container5
+{
+    margin-top: 40px ;
+    background-color: rgb(65, 6, 99);
+    width: 500px;
+    height: 200px;
+    border-radius: 5px;
+    position: relative;
+    left: 350px;
+    bottom: -80px;
+}
+.deuxi
+{
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px;
+    background-color: rgb(50, 243, 243);
+    height: 25px;
+    width: 120px;
+    color: white;
+    font-size: 10px;
+}
+
+.premi
+{
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px;
+    background-color: white;
+    height: 25px;
+    width: 205px;
+    color: black;
+}
+.container6
+{
+    background-color: rgb(10, 10, 39);
+   padding-left: 30px;
+   padding-top: 100px;
+   margin-top: 40px;
+}
+
+.container6 img
+{
+    width: 80px;
+    height: 50px;
+}
+
+.pole
+{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.pole3
+{
+    padding-left: 10px;
+}
+
+.pole1
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.loca1
+{
+    padding-left: 10px;
+}
+
+@media screen and (max-width: 500px)
+{
+    .container5
+    {
+        margin-top: 40px ;
+        background-color: rgb(73, 45, 103);
+        width: 400px;
+        height: 200px;
+        border-radius: 5px;
+        position: relative;
+        left: 45px;
+    }
+}
